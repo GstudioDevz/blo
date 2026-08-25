@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="koio.vcxproj" Id="0b0f2d02-78b1-49b9-a139-3edc60822f21" />
+</Solution>
